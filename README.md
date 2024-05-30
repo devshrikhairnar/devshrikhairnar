@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devshrikhairnar
-- 👀 I’m interested in... 
-- 🌱 I’m currently learning Computer Engineering
-- 💞️ I’m looking to collaborate on ... 
+- 👀 I’m interested in UI/UX designing and I'm also exploring Cybersecurity.
+- 🌱 I’m currently in my last semester of Computer Engineering.
+- 💞️ I’m looking to collaborate on the UI/UX projects.
 - 📫 How to reach me : devshrikhairnar@gmail.com
 
 <!---
