@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @devshrikhairnar
-- 👀 I’m interested in UI/UX designing and I'm also exploring Cybersecurity.
-- 🌱 I’m currently in my last semester of Computer Engineering.
-- 💞️ I’m looking to collaborate on the UI/UX projects.
-- 📫 How to reach me : devshrikhairnar@gmail.com
+- Hi, I’m @devshrikhairnar
+- I’m interested in UI/UX designing and I'm also exploring Cybersecurity.
+- I’m currently in my last semester of Computer Engineering.
+- How to reach me : devshrikhairnar@gmail.com
 
 <!---
 devshrikhairnar/devshrikhairnar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
