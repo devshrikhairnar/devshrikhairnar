@@ -1,6 +1,6 @@
 - Hi, I’m @devshrikhairnar
-- I’m interested in UI/UX designing and I'm also exploring Cybersecurity.
-- I’m currently in my last semester of Computer Engineering.
+- Bachelor of Engineering in Computer Science.
+- Python| SQL | JAVA | Data Analytics.
 - How to reach me : devshrikhairnar@gmail.com
 
 <!---
